@@ -14,6 +14,13 @@ section.right-align > * {
   z-index: 10;
 }
 
+section.table-right table {
+  position: absolute;
+  right: 1rem;
+  top: 0.4rem;
+  font-size: 0.65rem;
+}
+
 .two-column {
   display: flex;
   justify-content: space-between;
