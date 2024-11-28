@@ -33,7 +33,7 @@ Gaia Year-Long Seed Production Training
 
 <!--
 backgroundImage: url('images/snowy_field.jpg')
-backgroundPosition: 90vw
+backgroundPosition: 50vw
 
 -->
 
@@ -128,13 +128,12 @@ early/later in the year
 
 <!--
 backgroundImage: none
+class: table-right invert
 -->
-<div class="two-column">
-  <div>
-   <h1>Multispan</h1>
-   <p>Soil report</p>
-  </div>
-  <div>
+
+## Multispan
+
+Soil report
 
 | Analysis               | Result | Guideline | Interpretation |
 | ---------------------- | ------ | --------- | -------------- |
@@ -156,17 +155,14 @@ backgroundImage: none
 
 ---
 
-  </div>
-
 <!--
 backgroundImage: none
+class: table-right invert
 -->
-<div class="two-column">
-  <div>
-   <h1>Field</h1>
-   <p>Soil report</p>
-  </div>
-  <div>
+
+## Field
+
+Soil report
 
 | Analysis               | Result | Guideline | Interpretation |
 | ---------------------- | ------ | --------- | -------------- |
@@ -188,9 +184,6 @@ backgroundImage: none
 
 ---
 
-  </div>
-</div>
-
 <!--
 _class: right-align invert
 backgroundImage: url('images/zebrune/laid_portrait.png')
@@ -204,15 +197,17 @@ backgroundPosition: left
 backgroundSize: contain
 -->
 
+<div class="bg-overlay--right-50"></div>
+
 ## Brittany Harricot
 
 Plump round bean with
 purple marbled pods
 _best fresh from dry pods_
 
-direct sown
+direct sown **1/5/24**
 
-x2 per hole
+x 2 per hole
 1.2m formed bed
 3 rows
 mypex - holes 25cm
@@ -221,13 +216,17 @@ mypex - holes 25cm
 
 <!--
 _class: right-align invert
-backgroundImage: url('images/harricot/germination.jpg')
-backgroundSize: contain
+backgroundImage: url('images/harricot/germ_crop.jpg')
+backgroundSize: cover
 -->
 
-Date of germination:
-Date of seed harvest:
-Seed Crop Portfolio
+<div class="bg-overlay--right-40"></div>
+
+Germinated
+**~24/5/24**
+
+Harvested
+**17** - **24**/9/24
 
 Species:
 Annual or biennial:
