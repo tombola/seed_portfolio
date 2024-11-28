@@ -1,0 +1,22 @@
+/* @theme tombola */
+
+@import 'gaia';
+
+:root {
+  /* background-color: #000; */
+}
+
+section.right-align {
+  text-align: right;
+}
+
+.two-column {
+  display: flex;
+  justify-content: space-between;
+}
+.two-column > div {
+  width: 48%; /* Adjust column width as needed */
+}
+.two-column table {
+  font-size: 0.55rem;
+}

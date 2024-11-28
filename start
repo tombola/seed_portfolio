@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# brew install marp-cli
+
+marp seed_portfolio.md --theme-set themes/tombola.css --theme tombola -w
