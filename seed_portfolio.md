@@ -197,20 +197,42 @@ backgroundPosition: left
 backgroundSize: contain
 -->
 
-<div class="bg-overlay--right-50"></div>
+<div class="bg-overlay bg-right-50"></div>
 
-## Brittany Harricot
+# Brittany Harricot
+
+## **Leguminosae**
+
+### _Phaseolus vulgaris_
 
 Plump round bean with
 purple marbled pods
-_best fresh from dry pods_
+
+best fresh from dry pods
+
+---
+
+<!--
+_class: right-align invert
+backgroundImage: url('images/harricot/mypex.jpg')
+backgroundSize: cover
+-->
+
+<div class="bg-overlay bg-right-50"></div>
+
+## **18m** x **1.2m** bed
 
 direct sown **1/5/24**
 
 x 2 per hole
-1.2m formed bed
 3 rows
-mypex - holes 25cm
+
+### mypex
+
+rows **50cm**
+holes **25cm**
+
+Below propagation tunnel
 
 ---
 
@@ -220,57 +242,98 @@ backgroundImage: url('images/harricot/germ_crop.jpg')
 backgroundSize: cover
 -->
 
-<div class="bg-overlay--right-40"></div>
+<div class="bg-overlay bg-right-40"></div>
 
-Germinated
+## Germinated
+
 **~24/5/24**
 
-Harvested
+## Harvested
+
 **17** - **24**/9/24
 
-Species:
-Annual or biennial:
-Pollination method:
+Field
+self pollinated
 
-Isolation distances:
-Supports used:
-Field or undercover:
-Seed Crop Information
+_Previous crop kale_
 
-Fertility:
+---
 
-Previous crop:
+<!--
+_class: right-align invert
+backgroundImage: url('images/harricot/mature.jpg')
+backgroundSize: contain
+-->
 
-Any other observations:
-Description of planting location
+# Rogueing and Selection
 
-Planting method: (e.g. raised beds, ridges, flat, through mypex)
+- Uniformly vigorous plants
+- Uniformly productive
 
-In row crop spacing: cm
+Little potential for roguing or selection.
 
-Between row crop spacing: cm
-Planting Plan
+---
 
-Rogueing and Selection
-How many times did you select/rogue your crop?
+<!--
+_class: right-align invert
+backgroundImage: none
+backgroundSize: contain
+-->
 
-For each selection…
+# 5 / 6 / 24
 
-Selection method: (rogueing or positive selection)
+Large amount of damage from slugs/rabbits.
 
-How many plants did you select?
+Replanted **50** from module spares
+_Extremely fiddly through mypex_
 
-What were you selecting for?
+Added slug pellets through holes
 
-First flowers:
+Covered with enviromesh
 
-First seed/fruit harvest:
+---
 
-Final seed harvest:
+<!--
+_class: right-align invert
+backgroundImage: url('images/harricot/weeds.jpg')
+backgroundSize: cover
+-->
 
-Frequency of seed harvest:
+<div class="bg-overlay bg-right-50"></div>
 
-Notes on harvest method:
+# 30 / 7 / 24
+
+## Weed pressure
+
+Mature weeds inc. bindweed
+
+Should have caught earlier
+
+### Resolution
+
+Weeded - _disturbed roots_
+
+---
+
+<!--
+backgroundImage: url('images/harricot/buckets.jpg')
+backgroundSize: contain
+-->
+
+---
+
+<!--
+_class: left-align invert
+-->
+<div class="bg-overlay bg-left-50"></div>
+
+## Harvest
+
+- Harvested dry pods by hand
+- Shuffled along each side mypex
+
+---
+
 Flowering and Seed Harvest
 
 Post harvest drying location:
