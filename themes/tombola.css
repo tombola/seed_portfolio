@@ -39,48 +39,36 @@ section.table-right table {
   font-size: 0.55rem;
 }
 
-.bg-overlay--right-50 {
+.bg-overlay {
   position: absolute;
+  display: block;
+  height: 100%;
+  background-color: rgba(36, 36, 36, 0.8);
+  z-index:0;
+}
+
+.bg-right-50 {
   right:0;
   top: 0;
-  display: block;
   width: 50%;
-  height: 100%;
-  background-color: rgba(36, 36, 36, 0.8);
-  z-index:0;
 }
 
-.bg-overlay--right-40 {
-  position: absolute;
+.bg-right-40 {
   right:0;
   top: 0;
-  display: block;
   width: 40%;
-  height: 100%;
-  background-color: rgba(36, 36, 36, 0.8);
-  z-index:0;
 }
 
-.bg-overlay--left-50 {
-  position: absolute;
+.bg-left-50 {
   left:0;
   top: 0;
-  display: block;
   width: 50%;
-  height: 100%;
-  background-color: rgba(36, 36, 36, 0.8);
-  z-index:0;
 }
 
-.bg-overlay--left-40 {
-  position: absolute;
+.bg-left-40 {
   left:0;
   top: 0;
-  display: block;
   width: 40%;
-  height: 100%;
-  background-color: rgba(36, 36, 36, 0.8);
-  z-index:0;
 }
 
 h1 strong, h2 strong, h3 strong {
