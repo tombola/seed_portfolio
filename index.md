@@ -50,45 +50,45 @@ _near Buckfastleigh_
 ---
 
 <!--
-backgroundImage: url('images/1_devon.png')
+backgroundImage: url('images/1_devon.jpg')
 backgroundPosition: 0
 -->
 
 ---
 
 <!--
-backgroundImage: url('images/2_buckfast.png')
+backgroundImage: url('images/2_buckfast.jpg')
 -->
 
 ---
 
 <!--
-backgroundImage: url('images/3_baddaford.png')
+backgroundImage: url('images/3_baddaford.jpg')
 -->
 
 ---
 
 <!--
-backgroundImage: url('images/4_baddaford_farm.png')
+backgroundImage: url('images/4_baddaford_farm.jpg')
 -->
 
 ---
 
 <!--
-backgroundImage: url('images/5_fields.png')
+backgroundImage: url('images/5_fields.jpg')
 -->
 
 ---
 
 <!--
-backgroundImage: url('images/6b_field.png')
+backgroundImage: url('images/6b_field.jpg')
 -->
 
 ---
 
 <!--
 _class: right-align invert
-backgroundImage: url('images/os_map_crop.png')
+backgroundImage: url('images/os_map_crop.jpg')
 backgroundPosition: left
 backgroundSize: contain
 -->
@@ -110,7 +110,7 @@ _sandy silt loam_
 
 <!--
 _class: right-align invert
-backgroundImage: url('images/os_map_crop.png')
+backgroundImage: url('images/os_map_crop.jpg')
 backgroundPosition: left
 backgroundSize: contain
 -->
