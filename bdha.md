@@ -306,7 +306,9 @@ backgroundSize: contain
 
 <!--
 _class: invert
-backgroundImage: none
+backgroundImage: url('images/drying_cabinet.jpg')
+backgroundSize: contain
+backgroundPosition: right
 -->
 
 # Drying
@@ -316,6 +318,13 @@ backgroundImage: none
 - spread on tray
 
 ---
+
+<!--
+_class: invert
+backgroundImage: url('images/drying_cabinet_closed.jpg')
+backgroundSize: contain
+backgroundPosition: right
+-->
 
 ## Freezing
 
@@ -327,6 +336,15 @@ Once **extremely** dry
 Destroys pea weevil eggs
 
 ---
+
+<!--
+_class: invert left-align
+backgroundImage: url('images/harricot/pods.jpg')
+backgroundSize: contain
+backgroundPosition: right
+-->
+
+<div class="bg-overlay bg-left-50"></div>
 
 # Final stats
 
@@ -343,8 +361,11 @@ Germ test not yet completed
 ---
 
 <!--
-_class: left-align invert shade-text
- -->
+_class: left-align invert shade-text table-right
+backgroundImage: url('images/harricot/indoor.jpg')
+backgroundSize: contain
+backgroundPosition: right
+-->
 
 ## Comparison
 

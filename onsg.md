@@ -499,24 +499,43 @@ Output from brusher had chaff residue
 
 <!--
 _class: left-align invert shade-text
+backgroundImage: url('images/drying_cabinet.jpg')
+backgroundSize: contain
+backgroundPosition: right
  -->
 
 # Drying
 
 - spread on tray
-- drying cabinet
+- added to drying cabinet
 
 ---
 
 <!--
 _class: left-align invert shade-text
+backgroundImage: url('images/drying_cabinet_closed.jpg')
+backgroundSize: contain
+backgroundPosition: right
+ -->
+
+# Drying
+
+- spread on tray
+- added to drying cabinet
+
+---
+
+<!--
+_class: left-align invert shade-text
+backgroundImage: none
  -->
 
 # Final stats
 
 ## Onion - Stuttgart
 
-**3kg** yield
+### **3kg** yield
+
 /m **206g**
 /plant **~17g** (~180 plants)
 

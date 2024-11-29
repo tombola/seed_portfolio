@@ -20,6 +20,9 @@ section.left-align > * {
   position: relative;
   z-index: 10;
 }
+table {
+  font-size: 0.9rem;
+}
 
 section.table-right table {
   position: absolute;
@@ -46,6 +49,11 @@ section.table-right table {
   top: 0;
   background-color: rgba(36, 36, 36, 0.8);
   z-index:0;
+}
+
+.bg-100 {
+  right:0;
+  width: 100%;
 }
 
 .bg-right-60 {
