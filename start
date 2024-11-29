@@ -2,4 +2,6 @@
 
 # brew install marp-cli
 
-marp seed_portfolio.md --theme-set themes/tombola.css --theme tombola -w
+marp onsg.md --theme-set themes/tombola.css --theme tombola --html
+marp bdha.md --theme-set themes/tombola.css --theme tombola --html
+marp index.md --theme-set themes/tombola.css --theme tombola -w --html
