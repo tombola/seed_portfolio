@@ -71,18 +71,18 @@ backgroundSize: cover
 -->
 <div class="bg-overlay bg-left-50"></div>
 
-# Selection
+### Selection
 
 Done last year when lifted
 Exemplars at top of bed
 
-# Rogueing
+### Rogueing
 
 26/3 (ongoing)
 
-smaller
-less vigorous
-rotting
+- smaller
+- less vigorous
+- rotting
 
 ---
 
