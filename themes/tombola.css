@@ -43,34 +43,66 @@ section.table-right table {
   position: absolute;
   display: block;
   height: 100%;
+  top: 0;
   background-color: rgba(36, 36, 36, 0.8);
   z-index:0;
 }
 
+.bg-right-60 {
+  right:0;
+  width: 60%;
+}
+
 .bg-right-50 {
   right:0;
-  top: 0;
   width: 50%;
 }
 
 .bg-right-40 {
   right:0;
-  top: 0;
   width: 40%;
+}
+
+.bg-left-60 {
+  left:0;
+  width: 60%;
 }
 
 .bg-left-50 {
   left:0;
-  top: 0;
   width: 50%;
 }
 
 .bg-left-40 {
   left:0;
-  top: 0;
   width: 40%;
 }
 
+
 h1 strong, h2 strong, h3 strong {
-  color: inherit
+  color: inherit;
+}
+
+section.shade-text h1, section.shade-text h2, section.shade-text p {
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+}
+
+/* iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100vh;
+} */
+
+a:link, a:visited {
+  color: inherit;
+  /* font-weight: bold; */
+  text-decoration: none;
+}
+
+section.text-bottom p {
+  position: absolute;
+  bottom: 5vh;
+  width: 90%;
 }
