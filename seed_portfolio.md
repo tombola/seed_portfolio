@@ -205,7 +205,7 @@ backgroundSize: contain
 
 ### _Phaseolus vulgaris_
 
-Plump round bean with
+Plump round bean
 purple marbled pods
 
 best fresh from dry pods
@@ -316,7 +316,7 @@ Weeded - _disturbed roots_
 ---
 
 <!--
-backgroundImage: url('images/harricot/buckets.jpg')
+backgroundImage: url('images/harricot/pods.jpg')
 backgroundSize: contain
 -->
 
@@ -324,170 +324,216 @@ backgroundSize: contain
 
 <!--
 _class: left-align invert
+backgroundImage: url('images/harricot/harvest_bucket.jpg')
+backgroundSize: cover
+backgroundPosition: right
 -->
 <div class="bg-overlay bg-left-50"></div>
 
 ## Harvest
 
+17 / 9 / 24
+
 - Harvested dry pods by hand
-- Shuffled along each side mypex
+
+second harvest 24/9
 
 ---
 
-Flowering and Seed Harvest
+<!--
+backgroundImage: url('images/harricot/buckets.jpg')
+backgroundSize: contain
+-->
 
-Post harvest drying location:
+---
 
-Date of threshing:
+<!--
+backgroundImage: url('images/harricot/mottled.jpg')
+backgroundSize: contain
+-->
 
-Cleaning method(s):
+---
 
-Post cleaning drying method:
+<!--
+backgroundImage: url('images/harricot/mould.jpg')
+backgroundSize: contain
+backgroundPosition: right
+-->
 
-Any notes on seed drying:
+## Harvest quality
 
-Visual quality of seed:
-Post-harvest Drying and Cleaning
+Extremely good in general
 
-Dry seed weight:
+- some mottling on pods
+- few mouldy pods
 
-Yield per square metre planted:
+---
 
-Yield per plant:
+<!--
+_class: right-align invert
+backgroundImage: url('images/harricot/rack_tray.jpg')
+backgroundSize: contain
+-->
 
-Germination test result:
+<div class="bg-overlay bg-right-60"></div>
 
-Additional notes:
-Seed Yield and Health
+# Post harvest drying
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+Pods spread out on hanging rack.
 
-Photos:
-Seed Crop Calendar – January
+## Rack
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+Harris fencing
+covered with double bedsheet
 
-Photos:
-Seed Crop Calendar – February
+---
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+<!--
+_class: left-align invert shade-text
+backgroundImage: url('images/harricot/all_racks.jpg')
+backgroundSize: contain
+-->
 
-Photos:
-Seed Crop Calendar – March
+24/5/24
+second harvest
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+---
 
-Photos:
-Seed Crop Calendar – April
+<!--
+_class: left-align invert shade-text
+backgroundImage: url('images/harricot/processing/p1.jpg')
+backgroundSize: contain
+-->
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+---
 
-Photos:
-Seed Crop Calendar – May
+<!--
+_class: invert
+backgroundImage: none
+-->
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+# Threshing
 
-Photos:
-Seed Crop Calendar – June
+- [stomped](https://photos.app.goo.gl/WbroQxYRggsm8U727)
+- [manually screened](https://photos.app.goo.gl/ekh37YM2QYbC1Lfe9)
+- [screened with crate](https://photos.app.goo.gl/9hnikLqY2iSqDe8t9)
+- [stomped discards](https://photos.app.goo.gl/38QSCEcQvyPjXrSLA)
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+_[videos](https://photos.app.goo.gl/DwjFBubUW756GRKSA)_
 
-Photos:
-Seed Crop Calendar – July
+<!--
+split beans https://photos.app.goo.gl/byVyAJmUkg6j3JVz5
+-->
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+---
 
-Photos:
-Seed Crop Calendar – August
+<!--
+_class: right-align invert shade-text text-bottom
+backgroundImage: url('images/harricot/processing/p2.jpg')
+backgroundSize: contain
+-->
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+Results
 
-Photos:
-Seed Crop Calendar – September
+---
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+<!--
+_class: left-align invert shade-text
+backgroundImage: url('images/harricot/processing/p4.jpg')
+backgroundSize: contain
+-->
 
-Photos:
-Seed Crop Calendar – October
+# Winnowing
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+Removed small pod fragments
 
-Photos:
-Seed Crop Calendar – November
+---
 
-What did you do this month: 
-Pest and disease issues if any: 
-Weed pressure: 
-Weather: 
-Crop health: 
-Nutrient deficiencies: 
-Other issues:
+<!--
+_class: left-align invert shade-text
+backgroundImage: url('images/harricot/processing/p5.jpg')
+backgroundSize: contain
+-->
 
-Photos:
-Seed Crop Calendar – December
+---
+
+<!--
+_class: left-align invert shade-text
+backgroundImage: url('images/harricot/processing/p6.jpg')
+backgroundSize: contain
+-->
+
+Picked out bad beans
+
+---
+
+<!--
+_class: right-align invert shade-text
+backgroundImage: url('images/harricot/processing/p7.jpg')
+backgroundSize: contain
+-->
+
+<div class="bg-overlay bg-right-50"></div>
+
+[Used crate to remove split beans](https://photos.app.goo.gl/byVyAJmUkg6j3JVz5)
+
+---
+
+<!--
+_class: left-align invert shade-text
+backgroundImage: url('images/harricot/processing/p8.jpg')
+backgroundSize: contain
+-->
+
+---
+
+<!--
+_class: invert
+backgroundImage: none
+-->
+
+# Drying
+
+- drying cabinet
+- mesh bag
+- spread on tray
+
+---
+
+## Freezing
+
+Once **extremely** dry
+
+- foil bagged
+- 2 weeks in freezer
+
+Destroys pea weevil eggs
+
+---
+
+# Final stats
+
+## Brittany Harricot
+
+### Outdoor crop
+
+**8.6kg**
+/m 477g
+/plant ~20g (assuming 432 plants)
+
+Germ test not yet completed
+
+---
+
+<!--
+_class: left-align invert shade-text
+ -->
+
+## Comparison
+
+A separate indoor crop was also grown
+
+| Crop Type    | Yield  | per bed m | per Plant | germ |
+| ------------ | ------ | --------- | --------- | ---- |
+| Outdoor crop | 8.6kg  | 477g      | ~20g      | n/a  |
+| Indoor       | 16.4kg | 909g      | ~38g      | 97%  |
