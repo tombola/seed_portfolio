@@ -181,3 +181,10 @@ Soil report
 | Zinc (ppm)             | 7.9    | 4.1       | Normal         |
 | C.E.C. (meq/100g)      | 16.0   | 15.0      | Normal         |
 | Organic Matter LOI (%) | 3.4    |           |                |
+
+---
+
+## Portfolio Crops
+
+- [Onion - Stuttgart](onsg.html)
+- [Dwarf Bean - Brittany Harricot](bdha.html)
